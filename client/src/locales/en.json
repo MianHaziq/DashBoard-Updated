@@ -1,0 +1,40 @@
+{
+  "home": "Home",
+  "learn": "Learn",
+  "progressTracker": "Progress Tracker",
+  "profile": "Profile",
+  "settings": "Settings",
+  "languageToggle": "Switch to Arabic",
+    "welcomeBack": "Welcome back",
+    "daysInARow": "days in a row!",
+  "youAreDoingGreat": "You’re doing great",
+  "guest": "Guest",
+   "todaysArticles": "Today's Articles",
+  "viewAll": "View all",
+  "noArticlesToday": "No articles for today.",
+  "inProgress": "In Progress",
+  "noInProgressArticles": "No in-progress articles.",
+  "startAssessment": "Start Assessment",
+  "continue": "Continue",
+   "tabs": [
+    { "title": "", "url": "#", "image": "/filter.png" },
+    { "title": "💰 Economy", "url": "#", "image": "" },
+    { "title": "🏛️ Politics", "url": "#", "image": "" },
+    { "title": "🌍 World News", "url": "#", "image": "" },
+    { "title": "🎭 Culture & Lifestyle", "url": "#", "image": "" },
+    { "title": "🔒 Security & Defense", "url": "#", "image": "" }
+  ],
+  "reading": "Reading",
+  "listening": "Listening",
+    "yourTopics": "Your Topics",
+
+ "channels": {
+    "Al Jazeera": "Al Jazeera"
+  },
+  "categories": {
+    "🏛️ Politics": "🏛️ Politics"
+  },
+  "levels": {
+    "ILR Level: 2-Moderate": "ILR Level: 2-Moderate"
+  }
+}
